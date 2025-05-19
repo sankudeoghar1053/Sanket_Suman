@@ -1,4 +1,4 @@
-![logo](https://github.com/sankudeoghar1053/Sanket_Suman/edit/main/README.md)
+
 <h1 align="center">Hi 👋, I'm Sanket Suman</h1>
 <h3 align="center">A passionate Data Science freelancer from India</h3>
 
