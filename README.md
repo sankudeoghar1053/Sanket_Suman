@@ -6,7 +6,7 @@
 
 - 💬 My linkedIn profile **https://www.linkedin.com/in/sanket-suman-610a52365**
 
-- 📄 Know about my experiences [Prasunet company(Remote)](Prasunet company(Remote))
+- 📄 Know about my experiences [Prasunet company(Remote)]
 
 - ⚡ Fun fact **I think I am studious**
 
